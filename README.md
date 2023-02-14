@@ -11,7 +11,9 @@
 </p>   
 <p>
 Параллельно с практикой, я изучал особенности языка Java, укреплял свои знания в Git, изучал Spring Framework. Примерно за полгода прошёл 96 уроков Наиля Алишева по данному фреймворку. На курсе я практиковал такие темы как: Spring Core, SpringMVC, Jdbc API, JdbcTemplate, реляционные базы данных, Hibernate, Spring Data JPA, Spring Boot, Spring Security, Spring REST.
+    
 Ссылка на сертификат об окончании курса: <a href="https://github.com/ShulV/Info-about-me/blob/main/certificates/certificate__spring-course.pdf">сертификат</a>
+    
 Ссылки на пэт-проекты, на которых я практиковал Spring Framework:
 <ul>
   <li>
