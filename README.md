@@ -10,20 +10,29 @@
     Ссылка на проект: https://github.com/ShulV/Rest-API-currency-service
 </p>   
 <p>
-Параллельно с практикой, я изучал особенности языка Java, укреплял свои знания в Git, изучал Spring Framework. Примерно за полгода прошёл 96 уроков Наиля Алишева по данному фреймворку. На курсе я практиковал такие темы как: Spring Core, SpringMVC, Jdbc API, JdbcTemplate, реляционные базы данных, Hibernate, Spring Data JPA, Spring Boot, Spring Security, Spring REST. 
+Параллельно с практикой, я изучал особенности языка Java, укреплял свои знания в Git, изучал Spring Framework. Примерно за полгода прошёл 96 уроков Наиля Алишева по данному фреймворку. На курсе я практиковал такие темы как: Spring Core, SpringMVC, Jdbc API, JdbcTemplate, реляционные базы данных, Hibernate, Spring Data JPA, Spring Boot, Spring Security, Spring REST.
+Ссылка на сертификат об окончании курса: <a href="https://github.com/ShulV/Info-about-me/blob/main/certificates/certificate__spring-course.pdf">сертификат</a>
 Ссылки на пэт-проекты, на которых я практиковал Spring Framework:
 <ul>
   <li>
-  https://github.com/ShulV/CRUD-app-JDBC-Template (1 практический проект из курса)
+  <a href="https://github.com/ShulV/CRUD-app-JDBC-Template">
+  1 практический проект из курса
+  </a>
   </li>
   <li>
-  https://github.com/ShulV/Spring-Data-JPA-project (2 практический проект из курса, часть, которую нужно было выполнить по курсу я сделал, но понемногу расширяю функционал и пишу UI)
+    <a href="https://github.com/ShulV/Spring-Data-JPA-project">
+    2 практический проект из курса, часть, которую нужно было выполнить по курсу я сделал, но понемногу расширяю функционал и пишу UI
+    </a>
   </li>
   <li>
-  https://github.com/ShulV/Sensor-and-rest-service (3 практический проект из курса, пока что  реализовал половину функционала из ТЗ)
+    <a href="https://github.com/ShulV/Sensor-and-rest-service">
+    3 практический проект из курса, пока что  реализовал половину функционала из ТЗ
+    </a>
   </li>
   <li>
-  https://github.com/ShulV/Car-service-monolith (проект, который делал одногруппнику как расчётное задание по дисциплине Web-разработка)
+    <a href="https://github.com/ShulV/Car-service-monolith">
+    проект, который делал одногруппнику как расчётное задание по дисциплине Web-разработка
+    </a>
   </li>
 </ul>
 </p>
